@@ -1,0 +1,6 @@
+{
+  "name": "Apex Ledger",
+  "description": "Apex Ledger Institutional Trading Protocol and CRM. Manage accounts, trade tracking, deposit, withdrawal, identity verification, and client support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
